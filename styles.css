@@ -1,0 +1,38 @@
+.header {
+  background-color: #a5a58d;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+.kanye-bod {
+  background-color: #ffe8d6;
+}
+
+.ye-pic {
+  width: 500px;
+}
+
+.quote-gen {
+  text-align: center;
+  border-style: solid;
+}
+
+
+.intro {
+  margin-top: 50px;
+  align-items: center;
+}
+
+#new-quote {
+  margin-top: 50px;
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+  .ye-pic {
+    flex: 50%;
+    width: 300px;
+  }
+}
